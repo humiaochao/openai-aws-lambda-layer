@@ -6,7 +6,7 @@ Note: This layer was built and tested on x86_64.
 
 ## How to Use
 
-To add and configure the layer to AWS Lambda functions, follow the official AWS guidelines: [AWS Documentation on Adding Layers to a Function](https://docs.aws.amazon.com/lambda/latest/dg/invocation-layers.html).
+To add and configure the layer to AWS Lambda functions, follow the official AWS guidelines: [AWS Documentation on Managing Lambda Event Function dependencies with layers](https://docs.aws.amazon.com/lambda/latest/dg/invocation-layers.html).
 
 ## How It Was Built
 
